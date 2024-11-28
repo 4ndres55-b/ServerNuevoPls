@@ -23827,3 +23827,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 19:31:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr was shot by Skeleton
 [28Nov2024 19:31:53.899] [Server thread/DEBUG] [tombstone/]: A new grave of the player crookygr was created at position [x:2491, y:-42, z:-90, dim:minecraft:overworld]
 [28Nov2024 19:31:53.910] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[28Nov2024 19:34:53.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 19:34:53.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 19:37:26.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
+[28Nov2024 19:37:26.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[28Nov2024 19:39:53.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 19:39:53.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
