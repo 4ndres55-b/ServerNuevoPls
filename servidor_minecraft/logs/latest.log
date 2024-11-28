@@ -12000,3 +12000,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 19:07:29.005] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
 [28Nov2024 19:07:29.187] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (68 ms, expected <50 ms!). Time map: [improvableskills:accelerated_furnace=67, improvableskills:alchemist=1, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ladder_king=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
 [28Nov2024 19:07:30.761] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[28Nov2024 19:17:27.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved too quickly! 10.772188342796198,0.5264158794788472,0.6969983848348562
+[28Nov2024 19:17:27.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved too quickly! 11.60735863251557,0.564139375234987,0.7500183376194229
+[28Nov2024 19:17:37.021] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[28Nov2024 19:17:40.793] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:40.795] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:40.796] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:40.797] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:40.811] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:40.812] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:41.590] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:41.591] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:41.592] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:41.593] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.383] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.385] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.386] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.387] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.387] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.395] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.396] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.400] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.400] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.401] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.401] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.403] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.404] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.405] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.405] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.406] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.407] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:50.407] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:52.395] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:52.396] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:52.397] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:52.397] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Nov2024 19:17:57.342] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[28Nov2024 19:18:45.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has completed the challenge [Unusual Park]
+[28Nov2024 19:21:00.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
+[28Nov2024 19:21:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[28Nov2024 19:21:00.084] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 19:21:24.989] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@246ed0a
+[28Nov2024 19:21:25.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crookygr[/[0:0:0:0:0:0:0:1%0]:45696] logged in with entity id 8294 at (2505.1987687869632, 11.0, -99.63731406472141)
+[28Nov2024 19:21:25.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr joined the game
+[28Nov2024 19:21:25.158] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[28Nov2024 19:21:26.164] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (968 ms, expected <50 ms!). Time map: [improvableskills:accelerated_furnace=968, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ladder_king=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[28Nov2024 19:21:26.181] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[28Nov2024 19:21:58.601] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
