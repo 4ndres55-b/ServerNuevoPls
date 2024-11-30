@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2024-11-30 06:36:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
@@ -3464,6 +3470,12 @@
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2024-07-08 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2024-11-30 06:36:11 +0000"
     },
     "done": true
   },

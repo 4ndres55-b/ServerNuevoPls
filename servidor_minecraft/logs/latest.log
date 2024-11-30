@@ -12174,3 +12174,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 06:02:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved too quickly! 17.36536213817999,-2.1107034863237715,4.09406139645705
 [30Nov2024 06:28:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
 [30Nov2024 06:28:08.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Survival Mode]
+[30Nov2024 06:31:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
+[30Nov2024 06:32:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Survival Mode]
+[30Nov2024 06:32:14.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
+[30Nov2024 06:32:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Survival Mode]
+[30Nov2024 06:36:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement ['Til Death Do Us Part]
+[30Nov2024 06:36:21.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Next Generation]
+[30Nov2024 06:37:07.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
+[30Nov2024 06:37:07.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[30Nov2024 06:37:07.967] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
