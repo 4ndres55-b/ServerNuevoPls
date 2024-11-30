@@ -12172,3 +12172,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 06:02:17.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved too quickly! 17.319764652791264,-2.0964765821255327,4.06004635959124
 [30Nov2024 06:02:17.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved too quickly! 17.342116718558373,-2.103535557535693,4.076649272202758
 [30Nov2024 06:02:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved too quickly! 17.36536213817999,-2.1107034863237715,4.09406139645705
+[30Nov2024 06:28:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
+[30Nov2024 06:28:08.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Survival Mode]

@@ -2735,6 +2735,12 @@
     },
     "done": true
   },
+  "adchimneys:recipes/advanced_chimneys/stone_vent": {
+    "criteria": {
+      "has_item": "2024-11-30 06:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-07-08 01:20:18 +0000"
@@ -4160,6 +4166,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-11-27 22:13:29 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/advanced_chimneys/stone_pump": {
+    "criteria": {
+      "has_item": "2024-11-30 06:22:47 +0000"
     },
     "done": true
   },
