@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -116,6 +122,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-11-27 22:51:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-07-09 21:18:44 +0000"
@@ -275,6 +293,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -284,6 +308,12 @@
   "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-11-28 19:26:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
     },
     "done": true
   },
@@ -404,6 +434,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-27 07:37:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -539,6 +575,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-01 04:55:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
@@ -548,6 +590,12 @@
   "cfm:recipes/cfm/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_nickel_to_raw_block_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -617,6 +665,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 22:24:30 +0000"
@@ -674,6 +728,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
     },
     "done": true
   },
@@ -767,9 +827,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 22:24:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
     },
     "done": true
   },
@@ -1145,6 +1217,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -1181,6 +1259,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-07-07 20:54:34 +0000"
@@ -1202,6 +1286,12 @@
   "additionalguns:recipes/additionalguns/python": {
     "criteria": {
       "has_planks": "2024-07-07 20:54:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -1853,6 +1943,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-07-08 01:57:26 +0000"
@@ -2243,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 04:55:47 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -2531,6 +2633,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv1_reset": {
     "criteria": {
       "has_keycard": "2024-07-11 23:47:42 +0000"
@@ -2747,6 +2855,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-07-08 01:20:18 +0000"
@@ -2810,6 +2924,18 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -2990,6 +3116,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-07-08 01:57:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
     },
     "done": true
   },
@@ -3395,6 +3527,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-07-07 20:54:34 +0000"
@@ -3599,6 +3737,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-07-07 20:59:09 +0000"
@@ -3626,6 +3770,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-07-09 21:18:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -3839,6 +3989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 04:55:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-07-08 01:19:19 +0000"
@@ -3992,6 +4148,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2024-07-08 01:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 04:55:47 +0000"
     },
     "done": true
   },
@@ -4160,6 +4322,12 @@
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2024-11-27 07:33:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -4488,6 +4656,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-07-09 02:51:57 +0000"
@@ -4509,6 +4683,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_nickel_to_raw_nickel": {
+    "criteria": {
+      "has_raw_block_nickel": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -4557,6 +4737,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2024-11-27 22:24:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
     },
     "done": true
   },
@@ -4884,6 +5070,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2024-07-08 01:19:19 +0000"
@@ -5040,6 +5232,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-07-08 01:24:51 +0000"
@@ -5130,6 +5328,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-08 01:18:06 +0000"
@@ -5165,6 +5369,12 @@
       "minecraft:plains": "2024-07-07 20:47:11 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
@@ -5427,6 +5637,12 @@
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-27 07:37:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -5844,6 +6060,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-07-09 02:51:57 +0000"
@@ -6069,6 +6291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 04:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-07-08 01:32:17 +0000"
@@ -6078,6 +6306,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-27 07:33:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
     },
     "done": true
   },
@@ -6168,6 +6402,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-07-07 21:08:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -6387,6 +6627,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_raw_nickel": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-27 22:36:34 +0000"
@@ -6480,6 +6726,12 @@
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-07-09 23:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-01 04:55:47 +0000"
     },
     "done": true
   },
@@ -6741,6 +6993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-01 04:30:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-07-08 01:19:19 +0000"
@@ -6771,6 +7029,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-11-28 19:18:51 +0000"
@@ -6795,9 +7059,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2024-11-27 07:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 04:55:47 +0000"
     },
     "done": true
   },
@@ -6879,6 +7155,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a4": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -6900,6 +7182,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-07-08 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -7065,6 +7353,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel_from_blasting3": {
+    "criteria": {
+      "has_raw_nickel": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-11-27 23:41:03 +0000"
@@ -7128,6 +7422,12 @@
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
     },
     "done": true
   },
@@ -7284,6 +7584,12 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-07-09 23:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 04:55:47 +0000"
     },
     "done": true
   },
