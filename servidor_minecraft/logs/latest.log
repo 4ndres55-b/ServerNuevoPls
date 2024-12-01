@@ -12045,3 +12045,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Dec2024 05:38:01.329] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
 [01Dec2024 05:41:58.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr was blown up by Creeper
 [01Dec2024 05:41:58.720] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[01Dec2024 05:47:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 252 entities]
+[01Dec2024 06:03:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 23 entities]
+[01Dec2024 06:04:18.140] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[01Dec2024 06:04:18.141] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[01Dec2024 06:05:20.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Spectator Mode]
+[01Dec2024 06:05:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
+[01Dec2024 06:09:47.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set the time to 13000]
+[01Dec2024 06:11:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Survival Mode]
+[01Dec2024 06:12:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Dec2024 06:12:53.195] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[01Dec2024 06:12:53.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 06:12:53.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 06:12:53.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Server closed
+[01Dec2024 06:12:53.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[01Dec2024 06:12:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 06:12:53.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 06:12:53.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 06:12:53.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 06:12:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 06:12:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 06:12:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 06:12:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Dec2024 06:12:53.782] [Server thread/INFO] [configured/]: Unloading server configs...
+[01Dec2024 06:12:53.783] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[01Dec2024 06:12:53.784] [Server thread/INFO] [Framework/]: Unloading server configs...
