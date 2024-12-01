@@ -851,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-01 05:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2024-07-11 22:17:34 +0000"
@@ -980,6 +986,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-07-09 02:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-01 05:32:49 +0000"
     },
     "done": true
   },
@@ -2204,6 +2216,12 @@
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-07-08 01:24:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2024-12-01 05:19:58 +0000"
     },
     "done": true
   },
@@ -5226,6 +5244,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways_palettes/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-01 05:19:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-07-09 20:16:37 +0000"
@@ -6153,6 +6177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-01 05:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-07-08 01:24:51 +0000"
@@ -6969,6 +6999,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2024-12-01 05:36:43 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/p250": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -7524,6 +7560,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-07-08 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-01 05:32:49 +0000"
     },
     "done": true
   },

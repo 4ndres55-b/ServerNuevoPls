@@ -12019,3 +12019,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Dec2024 04:51:06.208] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
 [01Dec2024 05:05:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 413 entities]
 [01Dec2024 05:08:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 263 entities]
+[01Dec2024 05:24:04.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=367, y=23, z=460} BlockPos{x=367, y=23, z=464}
+[01Dec2024 05:24:04.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=367, y=23, z=460} BlockPos{x=367, y=23, z=464}
+[01Dec2024 05:24:04.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=367, y=23, z=460} BlockPos{x=367, y=23, z=464}
+[01Dec2024 05:24:05.831] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:24:05.831] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:24:05.832] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:24:05.832] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:25:07.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=15, z=471} BlockPos{x=357, y=14, z=471}
+[01Dec2024 05:26:15.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 175 entities]
+[01Dec2024 05:28:31.345] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:28:31.346] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:28:31.346] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:28:31.346] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:28:31.786] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[01Dec2024 05:30:45.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 639 entities]
+[01Dec2024 05:35:32.789] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:35:32.790] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:35:32.790] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:35:32.790] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:35:32.790] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:35:32.790] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 05:36:06.178] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[01Dec2024 05:36:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Double Or Nothing!]
+[01Dec2024 05:38:01.329] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[01Dec2024 05:41:58.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr was blown up by Creeper
+[01Dec2024 05:41:58.720] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
