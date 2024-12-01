@@ -23567,3 +23567,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Dec2024 04:53:25.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 04:58:25.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 04:58:25.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 05:03:25.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 05:03:25.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 05:05:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 413 entities]
+[01Dec2024 05:08:25.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 05:08:25.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 05:08:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 263 entities]

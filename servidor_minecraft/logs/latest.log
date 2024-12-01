@@ -12017,3 +12017,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Dec2024 04:49:08.497] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [01Dec2024 04:51:06.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr burned to death
 [01Dec2024 04:51:06.208] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[01Dec2024 05:05:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 413 entities]
+[01Dec2024 05:08:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 263 entities]
