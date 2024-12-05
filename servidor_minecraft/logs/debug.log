@@ -24136,3 +24136,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 01:33:04.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr joined the game
 [05Dec2024 01:33:04.930] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
 [05Dec2024 01:33:05.310] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[05Dec2024 01:37:21.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:37:21.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:38:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 255 entities]
+[05Dec2024 01:42:21.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:42:21.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:42:22.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 24 entities]
+[05Dec2024 01:47:21.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:47:21.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:51:59.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 45 entities]
+[05Dec2024 01:52:21.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:52:21.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:57:21.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:57:21.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:02:21.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:02:21.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:07:21.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:07:21.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:12:21.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:12:21.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:13:38.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
+[05Dec2024 02:13:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
