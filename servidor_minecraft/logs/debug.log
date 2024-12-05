@@ -24413,3 +24413,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 02:45:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [We Need to Go Deeper]
 [05Dec2024 02:47:21.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 02:47:22.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:52:21.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:52:21.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:53:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has completed the challenge [Hot Tourist Destinations]
+[05Dec2024 02:53:17.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr tried to swim in lava to escape Piglin
+[05Dec2024 02:53:18.002] [Server thread/DEBUG] [tombstone/]: A new grave of the player crookygr was created at position [x:428, y:34, z:428, dim:minecraft:the_nether]
+[05Dec2024 02:53:18.004] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 02:55:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr tried to swim in lava to escape Piglin
+[05Dec2024 02:55:01.860] [Server thread/DEBUG] [tombstone/]: A new grave of the player crookygr was created at position [x:564, y:42, z:271, dim:minecraft:the_nether]
+[05Dec2024 02:55:01.864] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 02:57:21.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:57:21.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:59:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
+[05Dec2024 03:02:21.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:02:21.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:04:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Teleported crookygr to 592.500000, 54.200000, 592.500000]
+[05Dec2024 03:04:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [A Terrible Fortress]
+[05Dec2024 03:06:12.992] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[05Dec2024 03:06:12.993] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[05Dec2024 03:06:13.241] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[05Dec2024 03:06:13.243] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[05Dec2024 03:06:13.277] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@5287ba5f
+[05Dec2024 03:06:13.279] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[05Dec2024 03:06:13.300] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[05Dec2024 03:06:13.301] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[05Dec2024 03:06:13.378] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8652530b-1447-4ec6-9351-5b6d87ec3159
+[05Dec2024 03:06:13.409] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID fc97616a-a948-4fe3-ad60-8c6d003363b3
+[05Dec2024 03:06:13.410] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/ServerNuevoPls/servidor_minecraft/./crash-reports/crash-2024-12-05_03.06.13-server.txt
+[05Dec2024 03:06:13.742] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 43 messages to dispatch.

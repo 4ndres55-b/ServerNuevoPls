@@ -1867,9 +1867,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-05 02:50:38 +0000",
+      "minecraft:nether_wastes": "2024-12-05 02:50:30 +0000",
+      "minecraft:soul_sand_valley": "2024-12-05 02:53:03 +0000",
+      "minecraft:basalt_deltas": "2024-12-05 02:48:28 +0000",
       "minecraft:warped_forest": "2024-12-05 02:45:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -2060,6 +2064,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-07-09 20:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-05 02:50:24 +0000"
     },
     "done": true
   },
@@ -4679,6 +4689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-05 02:50:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-05 00:02:33 +0000"
@@ -5100,6 +5116,7 @@
       "minecraft:spider": "2024-07-08 01:32:46 +0000",
       "minecraft:creeper": "2024-07-08 01:32:17 +0000",
       "minecraft:cave_spider": "2024-11-28 19:29:57 +0000",
+      "minecraft:piglin": "2024-12-05 02:52:49 +0000",
       "minecraft:enderman": "2024-07-10 01:29:34 +0000",
       "minecraft:zombie": "2024-07-07 21:11:12 +0000",
       "minecraft:drowned": "2024-07-11 22:11:13 +0000"

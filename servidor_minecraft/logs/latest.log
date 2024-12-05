@@ -106,3 +106,16 @@
 [05Dec2024 02:38:32.364] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
 [05Dec2024 02:41:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Bonk!]
 [05Dec2024 02:45:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [We Need to Go Deeper]
+[05Dec2024 02:53:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has completed the challenge [Hot Tourist Destinations]
+[05Dec2024 02:53:17.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr tried to swim in lava to escape Piglin
+[05Dec2024 02:53:18.004] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 02:55:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr tried to swim in lava to escape Piglin
+[05Dec2024 02:55:01.864] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 02:59:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
+[05Dec2024 03:04:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Teleported crookygr to 592.500000, 54.200000, 592.500000]
+[05Dec2024 03:04:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [A Terrible Fortress]
+[05Dec2024 03:06:12.992] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[05Dec2024 03:06:12.993] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[05Dec2024 03:06:13.378] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8652530b-1447-4ec6-9351-5b6d87ec3159
+[05Dec2024 03:06:13.409] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID fc97616a-a948-4fe3-ad60-8c6d003363b3
+[05Dec2024 03:06:13.410] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/ServerNuevoPls/servidor_minecraft/./crash-reports/crash-2024-12-05_03.06.13-server.txt
