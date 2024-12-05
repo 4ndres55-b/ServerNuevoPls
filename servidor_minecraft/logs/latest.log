@@ -77,3 +77,20 @@
 [05Dec2024 00:42:36.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set the time to 1000]
 [05Dec2024 00:43:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr was slain by Shark
 [05Dec2024 00:43:26.961] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 01:11:07.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 111 entities]
+[05Dec2024 01:15:43.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 245 entities]
+[05Dec2024 01:16:12.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lazaro'/21456, l='ServerLevel[world]', x=121.11, y=105.00, z=295.50] died, message: 'Lazaro suffocated in a wall'
+[05Dec2024 01:16:12.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lazaro'/21456, l='ServerLevel[world]', x=121.11, y=105.00, z=295.50] died: Lazaro suffocated in a wall
+[05Dec2024 01:16:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 53 entities]
+[05Dec2024 01:17:40.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 21 entities]
+[05Dec2024 01:18:36.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 30 entities]
+[05Dec2024 01:18:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 22 entities]
+[05Dec2024 01:20:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 54 entities]
+[05Dec2024 01:22:09.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 64 entities]
+[05Dec2024 01:29:37.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
+[05Dec2024 01:29:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[05Dec2024 01:33:04.863] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@664f7f9b
+[05Dec2024 01:33:04.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crookygr[/[0:0:0:0:0:0:0:1%0]:52400] logged in with entity id 31499 at (254.50079345996184, 75.0, 117.21658468788092)
+[05Dec2024 01:33:04.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr joined the game
+[05Dec2024 01:33:04.930] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[05Dec2024 01:33:05.310] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
