@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-05 00:02:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
@@ -740,6 +746,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-08 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
     },
     "done": true
   },
@@ -2324,6 +2336,12 @@
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-11-27 22:51:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
     },
     "done": true
   },
@@ -4073,6 +4091,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_door": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_cooler": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
@@ -4487,6 +4511,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-11 22:34:22 +0000"
@@ -4671,6 +4701,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-07-09 20:52:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_hull": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
     },
     "done": true
   },
@@ -5172,6 +5208,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-05 00:02:20 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_short": {
     "criteria": {
       "has_gunpowder": "2024-07-08 01:32:17 +0000"
@@ -5301,6 +5343,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-08 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
     },
     "done": true
   },
@@ -6087,6 +6135,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-07-08 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
     },
     "done": true
   },
@@ -7269,6 +7323,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_bars": {
+    "criteria": {
+      "has_item": "2024-12-05 00:02:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-11-28 19:18:51 +0000"
@@ -7398,6 +7458,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-07-08 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_bars_from_zinc_ingot_stonecutting": {
+    "criteria": {
+      "has_zinc_ingot": "2024-12-05 00:02:20 +0000"
     },
     "done": true
   },

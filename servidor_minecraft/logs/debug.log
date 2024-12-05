@@ -23521,3 +23521,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 23:52:21.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 23:53:12.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Creative Mode]
 [04Dec2024 23:53:39.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set own game mode to Survival Mode]
+[04Dec2024 23:57:21.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:57:21.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:02:21.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:02:21.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
