@@ -54,3 +54,26 @@
 [05Dec2024 00:36:08.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
 [05Dec2024 00:36:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
 [05Dec2024 00:36:08.218] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 00:38:33.200] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@89873ea
+[05Dec2024 00:38:33.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crookygr[/[0:0:0:0:0:0:0:1%0]:60252] logged in with entity id 16266 at (505.56828878765407, 60.71772733591729, 185.84106143992852)
+[05Dec2024 00:38:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr joined the game
+[05Dec2024 00:38:33.515] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[05Dec2024 00:38:34.545] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (966 ms, expected <50 ms!). Time map: [improvableskills:accelerated_furnace=966, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ladder_king=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[05Dec2024 00:38:34.613] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[05Dec2024 00:38:43.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr drowned
+[05Dec2024 00:38:43.153] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 00:39:10.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=56, z=184} BlockPos{x=508, y=54, z=184}
+[05Dec2024 00:39:27.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=515, y=55, z=186} BlockPos{x=515, y=56, z=186}
+[05Dec2024 00:40:20.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved wrongly! 0.7629669984041811
+[05Dec2024 00:40:20.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved wrongly! 0.5609079306024114
+[05Dec2024 00:40:20.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved wrongly! 5.568115574008402
+[05Dec2024 00:40:20.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of crookygr) moved wrongly! 5.562075403433141
+[05Dec2024 00:40:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set the weather to clear]
+[05Dec2024 00:42:07.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=52, z=5} BlockPos{x=993, y=51, z=6}
+[05Dec2024 00:42:17.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=51, z=9} BlockPos{x=972, y=51, z=12}
+[05Dec2024 00:42:18.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=51, z=9} BlockPos{x=972, y=51, z=12}
+[05Dec2024 00:42:18.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=51, z=9} BlockPos{x=972, y=51, z=12}
+[05Dec2024 00:42:18.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=51, z=9} BlockPos{x=972, y=51, z=12}
+[05Dec2024 00:42:36.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set the time to 1000]
+[05Dec2024 00:43:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr was slain by Shark
+[05Dec2024 00:43:26.961] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
