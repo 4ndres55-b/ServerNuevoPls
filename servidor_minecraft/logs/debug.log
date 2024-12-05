@@ -23585,3 +23585,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 00:22:14.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=898, y=33, z=-289} BlockPos{x=898, y=30, z=-290}
 [05Dec2024 00:22:21.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 00:22:21.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:27:21.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:27:21.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:27:22.722] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Dec2024 00:27:22.723] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$2(Lnet/minecraft/world/level/levelgen/structure/pools/StructurePoolElement;)Z to md1c2dce$lambda$getShuffledTemplates$2$0 in waystones.mixins.json:JigsawPlacementMixin
+[05Dec2024 00:27:22.723] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$1(Ljava/lang/String;)Z to md1c2dce$lambda$getShuffledTemplates$1$1 in waystones.mixins.json:JigsawPlacementMixin
+[05Dec2024 00:27:22.723] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$0(Ljava/lang/Object;)Ljava/lang/String; to md1c2dce$lambda$getShuffledTemplates$0$2 in waystones.mixins.json:JigsawPlacementMixin
+[05Dec2024 00:28:29.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 150 entities]
+[05Dec2024 00:28:49.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 11 entities]
+[05Dec2024 00:32:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [The Andesite Age]
+[05Dec2024 00:32:21.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:32:21.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:35:10.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Set the weather to clear]
+[05Dec2024 00:36:08.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
+[05Dec2024 00:36:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[05Dec2024 00:36:08.218] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
