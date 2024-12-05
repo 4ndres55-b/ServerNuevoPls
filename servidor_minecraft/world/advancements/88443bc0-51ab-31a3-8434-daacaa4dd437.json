@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/cyan_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-27 07:37:35 +0000"
@@ -638,6 +644,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_nickel_to_raw_block_nickel": {
     "criteria": {
       "has_raw_nickel": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/black_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -1193,6 +1205,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "mca:adventure/staff_of_life": {
     "criteria": {
       "iron": "2024-07-12 00:25:22 +0000"
@@ -1436,6 +1454,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-01 04:44:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -1715,6 +1739,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_blue_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-09 21:18:44 +0000"
@@ -1834,6 +1864,12 @@
       "has_wheat": "2024-07-08 02:06:22 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-12-05 02:45:15 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -2105,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-05 02:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-07-07 20:54:37 +0000"
@@ -2141,6 +2183,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 22:24:30 +0000"
@@ -2150,6 +2198,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-01 04:44:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -2369,6 +2423,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/purple_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-07-07 20:53:03 +0000"
@@ -2555,6 +2615,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-07-07 20:59:09 +0000"
@@ -2720,6 +2786,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -2984,6 +3056,12 @@
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2024-12-05 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-05 02:45:15 +0000"
     },
     "done": true
   },
@@ -3278,6 +3356,12 @@
   "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-27 07:33:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-05 02:40:04 +0000"
     },
     "done": true
   },
@@ -3701,6 +3785,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2024-11-27 22:08:36 +0000"
@@ -3710,6 +3800,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-11-27 22:23:31 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/lime_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -3890,6 +3986,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-11-28 19:18:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -4241,6 +4343,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-05 02:41:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-07-09 21:18:44 +0000"
@@ -4361,6 +4469,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/red_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-07-08 01:19:19 +0000"
@@ -4436,6 +4550,12 @@
   "cfm:recipes/cfm/red_cooler": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -4634,6 +4754,12 @@
   "cgm:recipes/cgm/light_stock": {
     "criteria": {
       "has_gray_wool": "2024-07-09 23:09:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -5568,6 +5694,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/white_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-07-07 20:52:20 +0000"
@@ -5598,9 +5730,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_catwalk": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-07-08 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/magenta_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -6030,6 +6174,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -6195,6 +6345,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -6474,6 +6630,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/orange_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/vintorez_stock": {
     "criteria": {
       "has_stripped_oak_log": "2024-07-11 22:46:38 +0000"
@@ -6519,6 +6681,12 @@
   "cfm:recipes/cfm/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2024-07-07 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_ladder_from_plates_iron_stonecutting": {
+    "criteria": {
+      "has_plates_iron": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -6722,6 +6890,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-12-01 05:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-05 02:40:04 +0000"
     },
     "done": true
   },
@@ -7127,6 +7301,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/green_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/mac10": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
@@ -7172,6 +7352,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/brown_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -7253,6 +7439,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/gray_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-27 22:36:34 +0000"
@@ -7322,6 +7514,12 @@
   "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-11-27 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-05 02:40:49 +0000"
     },
     "done": true
   },
@@ -7406,6 +7604,12 @@
   "chococraft:recipes/chococraft.tab/chocopedia": {
     "criteria": {
       "has_gysahl_green": "2024-07-08 02:13:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -7595,6 +7799,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/pink_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-11-28 19:18:51 +0000"
@@ -7682,6 +7892,12 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2024-07-08 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },
@@ -7844,6 +8060,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_uranium3": {
     "criteria": {
       "has_raw_uranium": "2024-11-30 05:27:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/light_gray_decal": {
+    "criteria": {
+      "has_item": "2024-12-05 02:41:57 +0000"
     },
     "done": true
   },

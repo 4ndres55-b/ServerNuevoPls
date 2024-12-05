@@ -99,3 +99,10 @@
 [05Dec2024 01:51:59.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 45 entities]
 [05Dec2024 02:13:38.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crookygr lost connection: Timed out
 [05Dec2024 02:13:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr left the game
+[05Dec2024 02:38:31.912] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19bda383
+[05Dec2024 02:38:31.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crookygr[/[0:0:0:0:0:0:0:1%0]:38180] logged in with entity id 37264 at (269.7063780963816, 67.0, 161.63491556541686)
+[05Dec2024 02:38:31.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr joined the game
+[05Dec2024 02:38:31.968] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[05Dec2024 02:38:32.364] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[05Dec2024 02:41:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Bonk!]
+[05Dec2024 02:45:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [We Need to Go Deeper]
