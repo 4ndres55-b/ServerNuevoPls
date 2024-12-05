@@ -1571,6 +1571,12 @@
     },
     "done": true
   },
+  "livingthings:recipes/bone_meal": {
+    "criteria": {
+      "has_tooth": "2024-12-05 00:44:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-11-28 19:18:52 +0000"
@@ -1724,6 +1730,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-05 00:49:24 +0000"
     },
     "done": true
   },
@@ -6628,6 +6640,7 @@
       "potato": "2024-07-08 02:11:07 +0000",
       "bread": "2024-07-08 01:46:21 +0000",
       "rotten_flesh": "2024-07-08 01:27:15 +0000",
+      "dried_kelp": "2024-12-05 00:50:09 +0000",
       "enchanted_golden_apple": "2024-07-08 01:46:18 +0000",
       "carrot": "2024-07-11 22:49:54 +0000"
     },

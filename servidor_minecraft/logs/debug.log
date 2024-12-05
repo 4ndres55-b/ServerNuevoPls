@@ -23864,3 +23864,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 00:43:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr was slain by Shark
 [05Dec2024 00:43:26.953] [Server thread/DEBUG] [tombstone/]: A new grave of the player crookygr was created at position [x:982, y:62, z:71, dim:minecraft:overworld]
 [05Dec2024 00:43:26.961] [Server thread/INFO] [tombstone/]: The player crookygr has successfully been saved
+[05Dec2024 00:47:21.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:47:21.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:52:21.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:52:21.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
