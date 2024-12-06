@@ -23620,3 +23620,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 05:55:41.893] [Server thread/DEBUG] [mixin/]: Mixing MixinSignalPropagator from railways-common.mixins.json into com.simibubi.create.content.trains.signal.SignalPropagator
 [06Dec2024 05:55:48.301] [Server thread/DEBUG] [mixin/]: Mixing MixinTrackPlacement from railways-common.mixins.json into com.simibubi.create.content.trains.track.TrackPlacement
 [06Dec2024 05:57:13.901] [Server thread/DEBUG] [mixin/]: Mixing MixinBezierConnection from railways-common.mixins.json into com.simibubi.create.content.trains.track.BezierConnection
+[06Dec2024 05:57:42.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 05:57:42.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 05:58:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [They Grow Up So Fast]
+[06Dec2024 06:02:42.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 06:02:42.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 06:05:07.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=65, z=23} BlockPos{x=301, y=65, z=24}
+[06Dec2024 06:05:07.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=65, z=22} BlockPos{x=301, y=65, z=24}
