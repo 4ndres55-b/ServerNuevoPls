@@ -12015,3 +12015,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 05:19:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Hot Stuff]
 [06Dec2024 05:21:10.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Alissa'/28125, l='ServerLevel[world]', x=356.59, y=71.00, z=55.77] died: Alissa burned to death
 [06Dec2024 05:38:04.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [The Logistical Age]
+[06Dec2024 05:47:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [HAMMAH!]
+[06Dec2024 05:51:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Complex Curiosities]
+[06Dec2024 05:52:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Gave 56 [Slimeball] to crookygr]

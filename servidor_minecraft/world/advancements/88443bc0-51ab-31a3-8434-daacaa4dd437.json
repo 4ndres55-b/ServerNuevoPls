@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-12-06 05:51:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
@@ -2085,6 +2091,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-12-06 05:51:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
@@ -2730,6 +2742,12 @@
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-05 03:56:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2024-12-06 05:47:43 +0000"
     },
     "done": true
   },
@@ -3846,6 +3864,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_gold": {
+    "criteria": {
+      "has_plate_gold": "2024-12-06 05:47:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-11-28 19:18:52 +0000"
@@ -4659,6 +4683,12 @@
   "additionalguns:recipes/additionalguns/fn2000": {
     "criteria": {
       "has_iron_ingot": "2024-07-08 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 05:52:26 +0000"
     },
     "done": true
   },
@@ -5784,6 +5814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 05:52:26 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2024-07-08 01:32:17 +0000"
@@ -6894,6 +6930,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-12-06 05:47:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-27 07:34:04 +0000"
@@ -7689,6 +7731,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-07-08 02:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 05:52:26 +0000"
     },
     "done": true
   },
@@ -8576,6 +8624,12 @@
   "create:burner": {
     "criteria": {
       "0": "2024-12-05 03:13:59 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-12-06 05:51:09 +0000"
     },
     "done": true
   },
