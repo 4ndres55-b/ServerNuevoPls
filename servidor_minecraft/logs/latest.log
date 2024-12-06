@@ -12009,3 +12009,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 04:24:30.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 78 entities]
 [06Dec2024 04:24:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 8 entities]
 [06Dec2024 04:26:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 29 entities]
+[06Dec2024 04:47:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [A Pair of Giants]
+[06Dec2024 04:47:10.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has reached the goal [Crushing It]

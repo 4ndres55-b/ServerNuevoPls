@@ -23562,3 +23562,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 04:27:42.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 04:32:42.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 04:32:42.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:37:42.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:37:42.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:39:23.538] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedStorageManager from railways-common.mixins.json into com.simibubi.create.content.contraptions.MountedStorageManager
+[06Dec2024 04:39:23.540] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$read$1(Lnet/minecraft/nbt/CompoundTag;)V to md732f4c$lambda$read$1$0 in railways-common.mixins.json:MixinMountedStorageManager
+[06Dec2024 04:39:23.540] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$entityTick$0(Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/MountedFluidStorage;)V to md732f4c$lambda$entityTick$0$1 in railways-common.mixins.json:MixinMountedStorageManager
+[06Dec2024 04:39:23.573] [Server thread/DEBUG] [mixin/]: Mixing MountedStorageManagerMixin from railways.mixins.json into com.simibubi.create.content.contraptions.MountedStorageManager
+[06Dec2024 04:39:23.574] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bindTanks$0(Ljava/util/Map;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/MountedFluidStorage;)V to md732f4c$lambda$bindTanks$0$2 in railways.mixins.json:MountedStorageManagerMixin
+[06Dec2024 04:39:23.661] [Server thread/DEBUG] [mixin/]: Mixing AccessorToolboxInventory from railways-common.mixins.json into com.simibubi.create.content.equipment.toolbox.ToolboxInventory
+[06Dec2024 04:39:23.666] [Server thread/DEBUG] [mixin/]: Mixing AccessorMountedFluidStorage from railways-common.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[06Dec2024 04:39:23.666] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from railways.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[06Dec2024 04:42:42.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:42:42.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:47:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [A Pair of Giants]
+[06Dec2024 04:47:10.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has reached the goal [Crushing It]
+[06Dec2024 04:47:42.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:47:42.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:52:42.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:52:42.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
