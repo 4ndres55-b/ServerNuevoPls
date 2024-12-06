@@ -12021,3 +12021,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 05:58:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [They Grow Up So Fast]
 [06Dec2024 06:05:07.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=65, z=23} BlockPos{x=301, y=65, z=24}
 [06Dec2024 06:05:07.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=65, z=22} BlockPos{x=301, y=65, z=24}
+[06Dec2024 06:11:27.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [All Aboard!]
+[06Dec2024 06:16:06.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Cover Me with Diamonds]

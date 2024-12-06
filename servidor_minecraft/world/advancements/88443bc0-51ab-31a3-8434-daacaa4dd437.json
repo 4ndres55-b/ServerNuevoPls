@@ -2199,6 +2199,12 @@
     },
     "done": true
   },
+  "create:train": {
+    "criteria": {
+      "0": "2024-12-06 06:11:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-11-27 22:43:11 +0000"
@@ -2610,6 +2616,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-06 06:10:29 +0000"
     },
     "done": true
   },
