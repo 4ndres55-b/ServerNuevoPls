@@ -12003,3 +12003,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 03:20:18.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Christmas]
 [06Dec2024 03:20:18.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Mysterious Gift]
 [06Dec2024 03:20:36.718] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[06Dec2024 03:59:20.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [The Brass Age]
+[06Dec2024 04:22:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 56 entities]
+[06Dec2024 04:23:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 61 entities]
+[06Dec2024 04:24:30.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 78 entities]
+[06Dec2024 04:24:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 8 entities]
+[06Dec2024 04:26:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crookygr: Killed 29 entities]
