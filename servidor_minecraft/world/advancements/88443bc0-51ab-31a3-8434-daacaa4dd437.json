@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_blinds": {
     "criteria": {
       "has_log": "2024-07-11 22:46:38 +0000"
@@ -458,6 +464,12 @@
   "createdeco:recipes/createdeco.metals/copper_hull": {
     "criteria": {
       "has_item": "2024-11-27 22:51:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
     },
     "done": true
   },
@@ -785,6 +797,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-12-06 05:37:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-05 03:49:46 +0000"
@@ -905,6 +923,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/brass_bars_from_brass_ingot_stonecutting": {
     "criteria": {
       "has_brass_ingot": "2024-12-05 03:24:00 +0000"
@@ -944,6 +968,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-07-07 20:57:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
     },
     "done": true
   },
@@ -2427,6 +2457,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-07-08 01:19:19 +0000"
@@ -2562,6 +2598,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-07-08 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-06 05:39:58 +0000"
     },
     "done": true
   },
@@ -3213,6 +3255,12 @@
   "securitycraft:recipes/securitycraft/reinforced_stone_bricks": {
     "criteria": {
       "has_block": "2024-07-11 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2024-12-06 05:37:27 +0000"
     },
     "done": true
   },
@@ -4926,6 +4974,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_coffee_table": {
     "criteria": {
       "has_log": "2024-07-07 20:53:03 +0000"
@@ -5355,6 +5409,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-08 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
     },
     "done": true
   },
@@ -8669,6 +8729,12 @@
     },
     "done": true
   },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2024-12-06 05:38:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2024-07-08 01:54:09 +0000"
@@ -8714,6 +8780,12 @@
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2024-12-06 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-06 05:38:15 +0000"
     },
     "done": true
   },
