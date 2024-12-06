@@ -23590,3 +23590,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 05:08:07.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [The Copper Age]
 [06Dec2024 05:12:42.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 05:12:42.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 05:17:42.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 05:17:42.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 05:19:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Hot Stuff]
+[06Dec2024 05:21:10.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Alissa'/28125, l='ServerLevel[world]', x=356.59, y=71.00, z=55.77] died: Alissa burned to death
+[06Dec2024 05:22:42.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 05:22:42.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

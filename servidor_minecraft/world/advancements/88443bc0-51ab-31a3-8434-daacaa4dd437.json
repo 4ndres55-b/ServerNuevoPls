@@ -3618,6 +3618,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_storage_silver": {
+    "criteria": {
+      "has_ingot_silver": "2024-12-06 05:16:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-07-08 02:18:38 +0000"
@@ -4179,6 +4185,12 @@
   "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-11-28 19:18:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-06 05:16:30 +0000"
     },
     "done": true
   },
@@ -4842,6 +4854,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_silver_to_ingot_silver": {
+    "criteria": {
+      "has_storage_silver": "2024-12-06 05:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-07-09 21:23:06 +0000"
@@ -5088,6 +5106,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-06 05:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-05 00:41:13 +0000"
@@ -5205,6 +5229,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-09 21:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-06 05:19:17 +0000"
     },
     "done": true
   },

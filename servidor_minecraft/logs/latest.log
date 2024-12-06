@@ -12012,3 +12012,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2024 04:47:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [A Pair of Giants]
 [06Dec2024 04:47:10.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has reached the goal [Crushing It]
 [06Dec2024 05:08:07.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [The Copper Age]
+[06Dec2024 05:19:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Hot Stuff]
+[06Dec2024 05:21:10.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Alissa'/28125, l='ServerLevel[world]', x=356.59, y=71.00, z=55.77] died: Alissa burned to death
