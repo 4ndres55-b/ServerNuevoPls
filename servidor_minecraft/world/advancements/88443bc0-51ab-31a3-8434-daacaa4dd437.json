@@ -2637,6 +2637,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-06 06:16:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-07-08 01:24:51 +0000"
@@ -3591,6 +3597,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-07-08 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/combat/diamond_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-06 06:16:06 +0000"
     },
     "done": true
   },
@@ -8594,6 +8606,12 @@
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2024-12-05 00:11:43 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/combat/goggle_diamond_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-06 06:16:11 +0000"
     },
     "done": true
   },
