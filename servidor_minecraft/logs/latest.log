@@ -12817,3 +12817,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 00:55:12.175] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 diamond_backtank, missing knowledge for {1 diamond_chestplate=1.0}
 [19Dec2024 00:55:12.175] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 chainmail_backtank, missing knowledge for {1 chainmail_chestplate=1.0}
 [19Dec2024 00:55:12.175] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 75 milliseconds
+[19Dec2024 01:04:30.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[19Dec2024 01:04:30.352] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a74b13d
+[19Dec2024 01:04:30.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crookygr[/[0:0:0:0:0:0:0:1%0]:59886] logged in with entity id 647 at (-5.5, 98.0, 3.5)
+[19Dec2024 01:04:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr joined the game
+[19Dec2024 01:04:30.462] [Netty Epoll Server IO #2/INFO] [immersiveengineering/]: Recipes for potions: tombstone:earthly_garden, minecraft:strong_poison, upgrade_aquatic:insomnia, minecraft:long_weakness, minecraft:long_turtle_master, tombstone:spectral, minecraft:long_strength, upgrade_aquatic:repellence_long, minecraft:swiftness, minecraft:strength, minecraft:strong_regeneration, upgrade_aquatic:vibing_strong, minecraft:strong_healing, minecraft:strong_turtle_master, minecraft:water_breathing, mowziesmobs:poison_resist, minecraft:long_leaping, minecraft:strong_leaping, upgrade_aquatic:restfulness, minecraft:strong_harming, tombstone:discretion, minecraft:slow_falling, upgrade_aquatic:vibing_long, mowziesmobs:long_poison_resist, minecraft:awkward, minecraft:long_swiftness, tombstone:frostbite, minecraft:long_invisibility, upgrade_aquatic:restfulness_strong, upgrade_aquatic:vibing, minecraft:long_slow_falling, minecraft:long_night_vision, minecraft:strong_strength, minecraft:fire_resistance, tombstone:bait, minecraft:weakness, minecraft:regeneration, minecraft:long_poison, minecraft:water, minecraft:strong_swiftness, minecraft:healing, minecraft:long_slowness, upgrade_aquatic:insomnia_strong, minecraft:harming, upgrade_aquatic:repellence_strong, minecraft:invisibility, minecraft:leaping, minecraft:poison, minecraft:long_regeneration, minecraft:long_fire_resistance, minecraft:night_vision, minecraft:long_water_breathing, upgrade_aquatic:repellence, tombstone:darkness, minecraft:slowness, minecraft:strong_slowness, tombstone:restoration, minecraft:turtle_master
+[19Dec2024 01:04:30.688] [Server thread/INFO] [Jade/]: Syncing config to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[19Dec2024 01:04:30.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Christmas]
+[19Dec2024 01:04:32.190] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to crookygr (88443bc0-51ab-31a3-8434-daacaa4dd437)
+[19Dec2024 01:04:33.551] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.552] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.552] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.552] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.552] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.553] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.553] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.610] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.612] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.613] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.613] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.613] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.613] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.613] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.613] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.635] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.636] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.636] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.636] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:04:33.636] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 01:13:18.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Stone Age]
+[19Dec2024 01:13:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crookygr has made the advancement [Getting an Upgrade]
