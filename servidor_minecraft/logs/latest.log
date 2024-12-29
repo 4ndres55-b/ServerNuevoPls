@@ -12814,3 +12814,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 21:23:44.054] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to javierxds (e9cb99e1-bf76-34e2-9889-8653f13da725)
 [29Dec2024 21:31:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds was shot by Skeleton
 [29Dec2024 21:31:49.390] [Server thread/INFO] [tombstone/]: The player javierxds has successfully been saved
+[29Dec2024 21:44:20.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
+[29Dec2024 21:44:46.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: javierxds moved too quickly! -3.02657870498075,0.08609407931551516,9.583722063522394
+[29Dec2024 21:44:47.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds has made the advancement [Minecraft Comes Alive]
+[29Dec2024 21:44:47.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12045ms or 240 ticks behind
+[29Dec2024 21:44:48.270] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:44:48.270] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:44:48.271] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:44:48.271] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:11.405] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[29Dec2024 21:45:24.391] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:24.392] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:24.392] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:24.392] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:24.392] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:24.393] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:24.393] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:25.123] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 21:45:29.264] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[29Dec2024 21:45:43.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds has made the advancement [Sweet Dreams]
+[29Dec2024 21:49:11.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds has made the advancement [Stone Age]
