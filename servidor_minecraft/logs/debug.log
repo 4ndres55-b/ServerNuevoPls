@@ -25024,3 +25024,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 21:23:44.054] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to javierxds (e9cb99e1-bf76-34e2-9889-8653f13da725)
 [29Dec2024 21:28:05.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 21:28:05.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:31:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds was shot by Skeleton
+[29Dec2024 21:31:49.390] [Server thread/INFO] [tombstone/]: The player javierxds has successfully been saved
+[29Dec2024 21:33:05.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:33:05.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:38:05.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:38:05.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

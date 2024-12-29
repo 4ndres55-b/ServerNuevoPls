@@ -12812,3 +12812,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 21:23:42.483] [Server thread/INFO] [Jade/]: Syncing config to javierxds (e9cb99e1-bf76-34e2-9889-8653f13da725)
 [29Dec2024 21:23:42.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds has made the advancement [Christmas]
 [29Dec2024 21:23:44.054] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to javierxds (e9cb99e1-bf76-34e2-9889-8653f13da725)
+[29Dec2024 21:31:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javierxds was shot by Skeleton
+[29Dec2024 21:31:49.390] [Server thread/INFO] [tombstone/]: The player javierxds has successfully been saved
